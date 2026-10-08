@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+processed/
+processed_testing/
+dataset/
+testing_data/
